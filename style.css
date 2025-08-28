@@ -192,7 +192,7 @@ header .navbar{
 }
 
 .hero-section .hero-image-wrapper{
-    max-width: 600px;
+    max-width: 500px;
     margin-right: 80px;
 }
 
@@ -627,4 +627,5 @@ header .navbar{
         gap: 20px;
     }
 }
+
 
